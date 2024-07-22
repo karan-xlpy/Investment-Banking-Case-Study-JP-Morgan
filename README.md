@@ -22,9 +22,7 @@ Second slide: Overview of the auction process and next steps (based on the proce
 
 In this task, I built a Discounted Cash Flow (DCF) model based on updated financial projections and assumptions provided by the company. I used the 'advanced' template to calculate the DCF valuation, then summarized the findings and key assumptions in a PowerPoint presentation.
 
-## Task 4: Consider valuation implications following unforeseen events.
-
-## DCF Model Adjustments
+## Task 4: Consider valuation implications following unforeseen events. (DCF Model Adjustments)
 
 In this task, I updated the Discounted Cash Flow (DCF) model by revising the revenue for FY21 to $1,100 million and setting the gross margin to 50.0% in the 'Company fin forecasts' tab. I then recalculated the gross profit based on the new gross margin and reviewed the impact of these changes on the 'DCF output' tab to assess the updated valuation.
 
