@@ -3,6 +3,7 @@ A comprehensive job simulation project for JP Morgan's Investment Banking divisi
 
 ## File Formats and Accessibility
 
+- The task instructions were initially provided in a Word document, but I have uploaded it as a PDF file for better view and understanding.
 - I have uploaded the PDF file of the PowerPoint presentation because the `.pptx` file does not display clearly on GitHub. The PDF provides a better view and understanding.
 - The Excel file has been converted to CSV format for easier access, but due to the formatting provided by the organizer team, it may still be unclear. Therefore, I have uploaded both the CSV file and an additional PDF version for better understanding.
 
