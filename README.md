@@ -1,11 +1,10 @@
 # Investment-Banking-Case-Study-JP-Morgan
 A comprehensive job simulation project for JP Morgan's Investment Banking division, showcasing financial analysis, valuation, and strategic recommendations.
 
-{
+
 ## File Formats and Viewing
 
 I have uploaded the PowerPoint file in both `.pptx` and converted to `.pdf` format for better viewing and understanding. The Excel file was converted to `.csv` format, but due to formatting issues from the organizer team, I have also uploaded the same file in `.pdf` format for better clarity and comprehension.
-}
 
 ## Task 1: Speak to the Hong Kong team and then provide your Managing Director with M&A target ideas.
 
